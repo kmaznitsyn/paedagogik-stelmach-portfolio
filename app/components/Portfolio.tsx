@@ -179,7 +179,7 @@ export function Portfolio() {
             >
               <div className="aspect-[3/4] bg-gradient-to-br from-dusty-pink/30 to-lavender/30 relative overflow-hidden">
                 <Image
-                  src="/maria-stelmach-portfolio-photo.jpg"
+                  src="/about-photo.jpg"
                   alt="Марія Стельмах"
                   fill
                   sizes="(min-width: 768px) 28rem, 90vw"
